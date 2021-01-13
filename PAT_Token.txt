@@ -1,0 +1,43 @@
+
+export myorganization=thirisha       -organisation name
+exportAZURE_DEVOPS_EXP_PAT=z63gjhyvtj3qgwoeci4ysqje73zhcwxoklb6jwfs2jg4xqmacmga      -finalTrail pat
+token = z63gjhyvtj3qgwoeci4ysqje73zhcwxoklb6jwfs2jg4xqmacmga
+
+
+
+organisation   docs5
+token :  zt6zedjkyojvfubrocunko2nbc3pe5rfbnwn4fxmkgfjzqgx4udq
+
+exportAZURE_DEVOPS_EXP_PAT=zt6zedjkyojvfubrocunko2nbc3pe5rfbnwn4fxmkgfjzqgx4udq
+export myorganization=docs5
+az extension add --name azure-devops
+az devops login
+git clone https://MYAzureWorkshopArtifacts@dev.azure.com/MYAzureWorkshopArtifacts/AZURE_WORKSHOP_PROJECT/_git/azure-cli && cd azure-cli && npm install && npm run initiate_landingzone
+________________________________________________________________
+
+
+nagapothuru
+token ;  3gn3gow7hxrak3ci2qvtiqtvwhxuofhoczqyyub4dvkohlkhv2na
+
+export AZURE_DEVOPS_EXT_PAT=3gn3gow7hxrak3ci2qvtiqtvwhxuofhoczqyyub4dvkohlkhv2na
+export myorganization=nagapothuru
+az extension add --name azure-devops
+az devops login
+3gn3gow7hxrak3ci2qvtiqtvwhxuofhoczqyyub4dvkohlkhv2na
+git clone https://MYAzureWorkshopArtifacts@dev.azure.com/MYAzureWorkshopArtifacts/AZURE_WORKSHOP_PROJECT/_git/azure-cli && cd azure-cli && npm install && npm run initiate_landingzone
+
+
+________________________
+
+
+friday2020
+
+export AZURE_DEVOPS_EXT_PAT=7hoeb4pkqxwkojblaxawdjjimyfxzekuuptgksfwu7jbkvneutba
+export myorganization=friday2020
+az extension add --name azure-devops
+az devops login
+7hoeb4pkqxwkojblaxawdjjimyfxzekuuptgksfwu7jbkvneutba
+git clone https://MYAzureWorkshopArtifacts@dev.azure.com/MYAzureWorkshopArtifacts/AZURE_WORKSHOP_PROJECT/_git/azure-cli && cd azure-cli && npm install && npm run initiate_landingzone
+
+
+7hoeb4pkqxwkojblaxawdjjimyfxzekuuptgksfwu7jbkvneutba
